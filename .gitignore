@@ -1,0 +1,6 @@
+data_walkforward/
+data_pit_wf/
+__pycache__/
+*.parquet
+*.pyc
+.venv/
