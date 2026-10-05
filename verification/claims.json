@@ -1,0 +1,17 @@
+{
+  "period": [
+    "2015-01-01",
+    "2026-06-30"
+  ],
+  "initial_capital_inr": 10000000,
+  "final_value_inr": 231892331,
+  "total_pnl_inr": 221892331,
+  "cagr_pct": 31.46,
+  "sharpe_annualised": 1.156,
+  "max_drawdown_pct": -37.14,
+  "windows_positive": 17,
+  "windows_total": 23,
+  "benchmark_eqwt_pit_cagr_pct": 15.91,
+  "transaction_cost_per_leg": 0.001,
+  "universe": "NIFTY 100 + NIFTY Midcap 100, point-in-time (event-based)"
+}

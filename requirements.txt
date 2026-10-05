@@ -3,3 +3,5 @@ pandas
 pyarrow
 yfinance
 requests
+matplotlib
+pdfplumber

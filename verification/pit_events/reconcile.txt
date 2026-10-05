@@ -1,0 +1,77 @@
+membership_v2: (3331, 278), names/day mean 182.5 (min 162, max 200)
+symbols never matched to price panel: 81
+  missing: AARTIIND (last member 2022-05-02 00:00:00)
+  missing: ABIRLANUVO (last member 2017-05-25 00:00:00)
+  missing: AIAENG (last member 2018-09-27 00:00:00)
+  missing: ALBK (last member 2019-12-26 00:00:00)
+  missing: AMARAJABAT (last member 2022-03-30 00:00:00)
+  missing: ANDHRABANK (last member 2014-03-27 00:00:00)
+  missing: APARINDS (last member 2026-06-30 00:00:00)
+  missing: APLLTD (last member 2022-09-29 00:00:00)
+  missing: ARVIND (last member 2018-06-28 00:00:00)
+  missing: BAJAJHFL (last member 2026-03-27 00:00:00)
+  missing: BHARATFIN (last member 2018-12-27 00:00:00)
+  missing: BHARTIHEXA (last member 2026-03-27 00:00:00)
+  missing: BHUSANSTL (last member 2015-03-26 00:00:00)
+  missing: CAIRN (last member 2016-11-11 00:00:00)
+  missing: CASTROL (last member 2014-02-26 00:00:00)
+  missing: CENTURYTEX (last member 2018-12-27 00:00:00)
+  missing: CESC (last member 2018-02-02 00:00:00)
+  missing: CLEAN (last member 2023-03-29 00:00:00)
+  missing: CMC (last member 2015-03-26 00:00:00)
+  missing: CROMPGREAV (last member 2015-09-24 00:00:00)
+  missing: CUB (last member 2022-03-30 00:00:00)
+  missing: DHANI (last member 2022-03-30 00:00:00)
+  missing: DHFL (last member 2019-09-26 00:00:00)
+  missing: FACT (last member 2025-03-27 00:00:00)
+  missing: FINANTECH (last member 2014-03-27 00:00:00)
+  missing: GITANJALI (last member 2014-03-27 00:00:00)
+  missing: GRUH (last member 2019-09-26 00:00:00)
+  missing: GSKCONS (last member 2019-09-26 00:00:00)
+  missing: GSPL (last member 2023-03-29 00:00:00)
+  missing: GUJGASLTD (last member 2024-09-27 00:00:00)
+  missing: HDFC (last member 2023-07-12 00:00:00)
+  missing: HDIL (last member 2017-03-30 00:00:00)
+  missing: HEXAWARE (last member 2020-09-24 00:00:00)
+  missing: HINDCOPPER (last member 2026-06-30 00:00:00)
+  missing: IBREALEST (last member 2018-09-27 00:00:00)
+  missing: IBULHSGFIN (last member 2020-06-25 00:00:00)
+  missing: IDFC (last member 2018-09-27 00:00:00)
+  missing: IEX (last member 2023-03-29 00:00:00)
+  missing: INDIACEM (last member 2014-03-27 00:00:00)
+  missing: INDIAMART (last member 2023-03-29 00:00:00)
+
+agreement vs old Wayback membership (Jaccard/day, by year):
+Date
+2013    0.724
+2014    0.727
+2015    0.748
+2016    0.782
+2017    0.810
+2018    0.823
+2019    0.843
+2020    0.765
+2021    0.681
+2022    0.624
+2023    0.724
+2024    0.833
+2025    0.723
+2026    0.663
+
+names/day old vs new, by year:
+        old    new
+Date              
+2013  176.0  162.0
+2014  176.0  163.9
+2015  176.0  168.4
+2016  176.0  175.2
+2017  176.0  178.5
+2018  179.2  181.4
+2019  182.1  187.5
+2020  181.0  188.4
+2021  181.0  186.2
+2022  181.0  190.1
+2023  186.1  197.7
+2024  194.0  193.7
+2025  194.0  192.0
+2026  194.0  197.1

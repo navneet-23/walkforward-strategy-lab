@@ -1,0 +1,770 @@
+eff,index,action,symbol,company,src
+2013-11-01,MC100,exc,MARICO,Marico Ltd.,ind_prs29102013
+2013-11-01,MC100,inc,PFC,Power Finance Corporation Ltd.,ind_prs29102013
+2014-02-28,MC100,exc,CASTROL,Castrol (India) Ltd.,ind_prs21022014
+2014-02-28,MC100,inc,JUSTDIAL,Justdial Ltd.,ind_prs21022014
+2014-03-28,MC100,exc,ANDHRABANK,Andhra Bank,ind_prs27022014
+2014-03-28,MC100,exc,FINANTECH,Financial Technologies (India) Ltd.,ind_prs27022014
+2014-03-28,MC100,exc,GITANJALI,Gitanjali Gems Ltd.,ind_prs27022014
+2014-03-28,MC100,exc,HEXAWARE,Hexaware Technologies Ltd.,ind_prs27022014
+2014-03-28,MC100,exc,INDIACEM,India Cements Ltd.,ind_prs27022014
+2014-03-28,MC100,exc,MMTC,MMTC Ltd.,ind_prs27022014
+2014-03-28,MC100,exc,PIPAVAVDOC,Pipavav Defence and Offshore Engn. Co. Ltd.,ind_prs27022014
+2014-03-28,MC100,exc,RCOM,Reliance Communications Ltd.,ind_prs27022014
+2014-03-28,MC100,exc,SUZLON,Suzlon Energy Ltd.,ind_prs27022014
+2014-03-28,MC100,exc,WOCKPHARMA,Wockhardt Ltd.,ind_prs27022014
+2014-03-28,MC100,inc,ARVIND,Arvind Ltd.,ind_prs27022014
+2014-03-28,MC100,inc,CMC,CMC Ltd.,ind_prs27022014
+2014-03-28,MC100,inc,IFCI,IFCI Ltd.,ind_prs27022014
+2014-03-28,MC100,inc,IBULHSGFIN,Indiabulls Housing Finance Ltd.,ind_prs27022014
+2014-03-28,MC100,inc,KPIT,KPIT Technologies Ltd.,ind_prs27022014
+2014-03-28,MC100,inc,MINDTREE,MindTree Ltd.,ind_prs27022014
+2014-03-28,MC100,inc,PIDILITIND,Pidilite Industries Ltd.,ind_prs27022014
+2014-03-28,MC100,inc,TATACOMM,Tata Communications Ltd.,ind_prs27022014
+2014-03-28,MC100,inc,TORNTPHARM,Torrent Pharmaceuticals Ltd.,ind_prs27022014
+2014-03-28,MC100,inc,UCOBANK,UCO Bank,ind_prs27022014
+2014-03-28,N100,exc,IDBI,IDBI Bank Ltd.IDBI Bank Ltd.,ind_prs27022014
+2014-03-28,N100,exc,JPASSOCIATJPASSOCIAT,Jaiprakash Associates Ltd.Jaiprakash Associates Ltd.,ind_prs27022014
+2014-03-28,N100,inc,INFRATEL,Bharti Infratel Ltd.,ind_prs27022014
+2014-03-28,N100,inc,INGVYSYABK,ING Vysya Bank Ltd.,ind_prs27022014
+2014-09-19,N100,exc,MPHASIS,MphasiS Ltd.,ind_prs20082014
+2014-09-19,N100,exc,MCDOWELL-N,United Spirits Ltd.,ind_prs20082014
+2014-09-19,N100,inc,AUROPHARMA,Aurobindo Pharma Ltd.,ind_prs20082014
+2014-09-19,N100,inc,MOTHERSUMI,Motherson Sumi Systems Ltd.,ind_prs20082014
+2014-09-26,MC100,exc,ADANIENT,Adani Enterprises Ltd.,ind_prs26082014
+2014-09-26,MC100,exc,ADANIPORTS,Adani Ports and Special Economic Zone Ltd.,ind_prs26082014
+2014-09-26,MC100,exc,MCLEODRUSS,McLeod Russel India Ltd.,ind_prs26082014
+2014-09-26,MC100,exc,UCOBANK,UCO Bank,ind_prs26082014
+2014-09-26,MC100,inc,HDIL,Housing Development and Infrastructure Ltd.,ind_prs26082014
+2014-09-26,MC100,inc,IOC,Indian Oil Corporation Ltd.,ind_prs26082014
+2014-09-26,MC100,inc,IRB,IRB Infrastructure Developers Ltd.,ind_prs26082014
+2014-09-26,MC100,inc,RANBAXY,Ranbaxy Laboratories Ltd.,ind_prs26082014
+2014-11-28,MC100,exc,RANBAXY,Ranbaxy Laboratories Ltd.,ind_prs18112014
+2014-11-28,MC100,inc,JPASSOCIAT,Jaiprakash Associates Ltd.,ind_prs18112014
+2014-11-28,N100,exc,RANBAXY,Ranbaxy Laboratories Ltd.,ind_prs18112014
+2014-11-28,N100,inc,RELINFRA,Reliance Infrastructure Ltd.,ind_prs18112014
+2015-02-02,MC100,exc,INGVYSYABK,ING Vysya Bank Ltd.,ind_prs21012015
+2015-02-02,MC100,inc,TVSMOTOR,TVS Motor Company Ltd.,ind_prs21012015
+2015-02-02,N100,exc,INGVYSYABK,ING Vysya Bank Ltd.,ind_prs21012015
+2015-02-02,N100,inc,EICHERMOT,Eicher Motors Ltd.,ind_prs21012015
+2015-02-23,MC100,exc,ARVIND,Arvind Ltd.,ind_prs23012015
+2015-02-23,MC100,inc,SKSMICRO,SKS Microfinance Ltd.,ind_prs23012015
+2015-03-27,MC100,exc,CMC,CMC Ltd.,ind_prs18032015_2
+2015-03-27,MC100,exc,AUROPHARMA,Aurobindo Pharma Ltd.,ind_prs20022015
+2015-03-27,MC100,exc,INFRATEL,Bharti Infratel Ltd.,ind_prs20022015
+2015-03-27,MC100,exc,BHUSANSTL,Bhushan Steel Ltd.,ind_prs20022015
+2015-03-27,MC100,exc,HDIL,Housing Development and Infrastructure Ltd.,ind_prs20022015
+2015-03-27,MC100,exc,TV18BRDCST,TV18 Broadcast Ltd.,ind_prs20022015
+2015-03-27,MC100,inc,RCOM,Reliance Communications Ltd.,ind_prs18032015_2
+2015-03-27,MC100,inc,DHFL,Dewan Housing Finance Corporation Ltd.,ind_prs20022015
+2015-03-27,MC100,inc,DLF,DLF Ltd.,ind_prs20022015
+2015-03-27,MC100,inc,JINDALSTEL,Jindal Steel & Power Ltd.,ind_prs20022015
+2015-03-27,MC100,inc,MARICO,Marico Ltd.,ind_prs20022015
+2015-03-27,MC100,inc,WOCKPHARMA,Wockhardt Ltd.,ind_prs20022015
+2015-03-27,N100,exc,DLF,DLF Ltd.,ind_prs20022015
+2015-03-27,N100,exc,JINDALSTEL,Jindal Steel & Power Ltd.,ind_prs20022015
+2015-03-27,N100,inc,IBULHSGFIN,Indiabulls Housing Finance Ltd.,ind_prs20022015
+2015-03-27,N100,inc,MCDOWELL-N,United Spirits Ltd.,ind_prs20022015
+2015-05-29,N100,exc,ADANIENT,Adani Enterprises Ltd.,ind_prs29042015
+2015-05-29,N100,exc,IDFC,IDFC Ltd.,ind_prs29042015
+2015-05-29,N100,inc,BRITANNIA,Britannia Industries Ltd.,ind_prs29042015
+2015-05-29,N100,inc,MRF,MRF Ltd.,ind_prs29042015
+2015-09-28,MC100,exc,CROMPGREAV,Crompton Greaves Ltd.,ind_prs24082015
+2015-09-28,MC100,exc,MAX,Max India Ltd.,ind_prs24082015
+2015-09-28,MC100,inc,PAGEIND,Page Industries Ltd.,ind_prs24082015
+2015-09-28,MC100,inc,PERSISTENT,Persistent Systems Ltd.,ind_prs24082015
+2015-09-28,N100,exc,CROMPGREAV,Crompton Greaves Ltd.,ind_prs24082015
+2015-09-28,N100,inc,ASHOKLEY,Ashok Leyland Ltd.,ind_prs24082015
+2015-10-19,MC100,exc,ABIRLANUVO,Aditya Birla Nuvo Ltd.,ind_prs18092015
+2015-10-19,MC100,inc,APLLTD,Alembic Pharmaceuticals Ltd.,ind_prs18092015
+2015-10-19,N100,exc,ABIRLANUVO,Aditya Birla Nuvo Ltd.,ind_prs18092015
+2015-10-19,N100,inc,IOC,Indian Oil Corporation Ltd.,ind_prs18092015
+2016-04-01,N100,exc,BAJAJHLDNG,Bajaj Holdings & Investment Ltd.,ind_prs22022016_2
+2016-04-01,N100,exc,BANKINDIA,Bank of India,ind_prs22022016_2
+2016-04-01,N100,exc,CANBK,Canara Bank,ind_prs22022016_2
+2016-04-01,N100,exc,EXIDEIND,Exide Industries Ltd.,ind_prs22022016_2
+2016-04-01,N100,exc,FEDERALBNK,Federal Bank Ltd.,ind_prs22022016_2
+2016-04-01,N100,exc,M&MFIN,Mahindra & Mahindra Financial Services Ltd.,ind_prs22022016_2
+2016-04-01,N100,exc,MRF,MRF Ltd.,ind_prs22022016_2
+2016-04-01,N100,exc,PETRONET,Petronet LNG Ltd.,ind_prs22022016_2
+2016-04-01,N100,exc,RELCAPITAL,Reliance Capital Ltd.,ind_prs22022016_2
+2016-04-01,N100,exc,RELINFRA,Reliance Infrastructure Ltd.,ind_prs22022016_2
+2016-04-01,N100,exc,SUNDARMFIN,Sundaram Finance Ltd.,ind_prs22022016_2
+2016-04-01,N100,exc,TATACHEM,Tata Chemicals Ltd.,ind_prs22022016_2
+2016-04-01,N100,exc,TATAGLOBAL,Tata Global Beverages Ltd.,ind_prs22022016_2
+2016-04-01,N100,inc,ABB,ABB India Ltd.,ind_prs22022016_2
+2016-04-01,N100,inc,BAJFINANCE,Bajaj Finance Ltd.,ind_prs22022016_2
+2016-04-01,N100,inc,BEL,Bharat Electronics Ltd.,ind_prs22022016_2
+2016-04-01,N100,inc,CADILAHC,Cadila Healthcare Ltd.,ind_prs22022016_2
+2016-04-01,N100,inc,CASTROLIND,Castrol India Ltd.,ind_prs22022016_2
+2016-04-01,N100,inc,DLF,DLF Ltd.,ind_prs22022016_2
+2016-04-01,N100,inc,EMAMILTD,Emami Ltd.,ind_prs22022016_2
+2016-04-01,N100,inc,HINDZINC,Hindustan Zinc Ltd.,ind_prs22022016_2
+2016-04-01,N100,inc,NHPC,NHPC Ltd.,ind_prs22022016_2
+2016-04-01,N100,inc,PIDILITIND,Pidilite Industries Ltd.,ind_prs22022016_2
+2016-04-01,N100,inc,PGHH,Procter & Gamble Hygiene & Health Care Ltd.,ind_prs22022016_2
+2016-04-01,N100,inc,SHREECEM,Shree Cement Ltd.,ind_prs22022016_2
+2016-04-01,N100,inc,TATAMTRDVR,Tata Motors Ltd. (DVR) *,ind_prs22022016_2
+2016-04-01,N100,inc,TORNTPHARM,Torrent Pharmaceuticals Ltd.,ind_prs22022016_2
+2016-09-30,MC100,exc,BAJFINANCE,Bajaj Finance Ltd.,ind_prs12082016
+2016-09-30,MC100,exc,BAJAJFINSV,Bajaj Finserv Ltd.,ind_prs12082016
+2016-09-30,MC100,exc,JSWSTEEL,JSW Steel Ltd.,ind_prs12082016
+2016-09-30,MC100,exc,MARICO,Marico Ltd.,ind_prs12082016
+2016-09-30,MC100,exc,SHREECEM,Shree Cement Ltd.,ind_prs12082016
+2016-09-30,MC100,inc,CROMPGREAV,Crompton Greaves Ltd.,ind_prs12082016
+2016-09-30,MC100,inc,HDIL,Housing Development and Infrastructure Ltd.,ind_prs12082016
+2016-09-30,MC100,inc,INDIGO,InterGlobe Aviation Ltd.,ind_prs12082016
+2016-09-30,MC100,inc,PNB,Punjab National Bank,ind_prs12082016
+2016-09-30,MC100,inc,RECLTD,Rural Electrification Corporation Ltd.,ind_prs12082016
+2016-09-30,N100,exc,RCOM,Reliance Communications Ltd.,ind_prs12082016
+2016-09-30,N100,exc,RECLTD,Rural Electrification Corporation Ltd.,ind_prs12082016
+2016-09-30,N100,inc,INDIGO,InterGlobe Aviation Ltd.,ind_prs12082016
+2016-09-30,N100,inc,PEL,Piramal Enterprises Ltd.,ind_prs12082016
+2016-11-15,MC100,exc,CAIRN,Cairn India Ltd.,ind_prs17102016
+2016-11-15,MC100,inc,ABIRLANUVO,Aditya Birla Nuvo Ltd.,ind_prs17102016
+2016-11-15,N100,exc,CAIRN,Cairn India Ltd.,ind_prs17102016
+2016-11-15,N100,inc,HAVELLS,Havells India Ltd.,ind_prs17102016
+2017-03-31,MC100,exc,ADANIENT,Adani Enterprises Ltd.,ind_prs16022017
+2017-03-31,MC100,exc,HDIL,Housing Development and Infrastructure Ltd.,ind_prs16022017
+2017-03-31,MC100,exc,JUSTDIAL,Justdial Ltd.,ind_prs16022017
+2017-03-31,MC100,exc,PEL,Piramal Enterprises Ltd.,ind_prs16022017
+2017-03-31,MC100,exc,SINTEX,Sintex Industries Ltd.,ind_prs16022017
+2017-03-31,MC100,inc,IBREALEST,Indiabulls Real Estate Ltd.,ind_prs16022017
+2017-03-31,MC100,inc,ICICIPRULI,ICICI Prudential Life Insurance Company Ltd.,ind_prs16022017
+2017-03-31,MC100,inc,IDFCBANK,IDFC Bank Ltd.,ind_prs16022017
+2017-03-31,MC100,inc,INDIACEM,India Cements Ltd.,ind_prs16022017
+2017-03-31,MC100,inc,RBLBANK,RBL Bank Ltd.,ind_prs16022017
+2017-03-31,N100,exc,APOLLOHOSP,Apollo Hospitals Enterprises Ltd.,ind_prs16022017
+2017-03-31,N100,exc,BHARATFORG,Bharat Forge Ltd.,ind_prs16022017
+2017-03-31,N100,exc,CASTROLIND,Castrol India Ltd.,ind_prs16022017
+2017-03-31,N100,inc,ICICIPRULI,ICICI Prudential Life Insurance Company Ltd.,ind_prs16022017
+2017-03-31,N100,inc,PETRONET,Petronet LNG Ltd.,ind_prs16022017
+2017-03-31,N100,inc,RECLTD,Rural Electrification Corporation Ltd.,ind_prs16022017
+2017-05-26,MC100,exc,ABIRLANUVO,Aditya Birla Nuvo Ltd.,ind_prs27042017
+2017-05-26,MC100,inc,PNBHOUSING,PNB Housing Finance Ltd.,ind_prs27042017
+2017-05-26,N100,exc,GRASIM,Grasim Industries Ltd.,ind_prs27042017
+2017-05-26,N100,inc,SUNTV,Sun TV Network Ltd.,ind_prs27042017
+2017-09-29,MC100,exc,RELCAPITAL,Reliance Capital Ltd.,ind_prs29082017
+2017-09-29,MC100,exc,MRF,MRF Ltd.,ind_prs28082017
+2017-09-29,MC100,exc,PETRONET,Petronet LNG Ltd.,ind_prs28082017
+2017-09-29,MC100,exc,RECLTD,Rural Electrification Corporation Ltd.,ind_prs28082017
+2017-09-29,MC100,exc,SPARC,Sun Pharma Advanced Research Company Ltd.,ind_prs28082017
+2017-09-29,MC100,exc,WOCKPHARMA,Wockhardt Ltd.,ind_prs28082017
+2017-09-29,MC100,inc,DMART,Avenue Supermarts Ltd.,ind_prs29082017
+2017-09-29,MC100,inc,ADANIENT,Adani Enterprises Ltd.,ind_prs28082017
+2017-09-29,MC100,inc,DIVISLAB,Divi's Laboratories Ltd.,ind_prs28082017
+2017-09-29,MC100,inc,ESCORTS,Escorts Ltd.,ind_prs28082017
+2017-09-29,MC100,inc,FORTIS,Fortis Healthcare Ltd.,ind_prs28082017
+2017-09-29,MC100,inc,INFIBEAM,Infibeam Incorporation Ltd.,ind_prs28082017
+2017-09-29,N100,exc,DIVISLAB,Divi's Laboratories Ltd.,ind_prs28082017
+2017-09-29,N100,exc,UBL,United Breweries Ltd.,ind_prs28082017
+2017-09-29,N100,inc,DMART,Avenue Supermarts Ltd.,ind_prs28082017
+2017-09-29,N100,inc,MRF,MRF Ltd.,ind_prs28082017
+2018-02-05,MC100,exc,CESC,CESC Ltd.,ind_prs08012018
+2018-02-05,MC100,exc,FORTIS,Fortis Healthcare Ltd.,ind_prs08012018
+2018-02-05,MC100,exc,STAR,Strides Shasun Ltd.,ind_prs08012018
+2018-02-05,MC100,inc,BEML,BEML Ltd.,ind_prs08012018
+2018-02-05,MC100,inc,GRAPHITE,Graphite India Ltd.,ind_prs08012018
+2018-02-05,MC100,inc,RELCAPITAL,Reliance Capital Ltd.,ind_prs08012018
+2018-04-02,N100,exc,GSKCONS,GlaxoSmithkline Consumer Healthcare Ltd.,ind_prs21022018
+2018-04-02,N100,exc,GLAXO,Glaxosmithkline Pharmaceuticals Ltd.,ind_prs21022018
+2018-04-02,N100,exc,GLENMARK,Glenmark Pharmaceuticals Ltd.,ind_prs21022018
+2018-04-02,N100,exc,TATAPOWER,Tata Power Co. Ltd.,ind_prs21022018
+2018-04-02,N100,exc,TORNTPHARM,Torrent Pharmaceuticals Ltd.,ind_prs21022018
+2018-04-02,N100,inc,ABCAPITAL,Aditya Birla Capital Ltd.,ind_prs21022018
+2018-04-02,N100,inc,GICRE,General Insurance Corporation of India,ind_prs21022018
+2018-04-02,N100,inc,GRASIM,Grasim Industries Ltd.,ind_prs21022018
+2018-04-02,N100,inc,L&TFH,L&T Finance Holdings Ltd.,ind_prs21022018
+2018-04-02,N100,inc,SBILIFE,SBI Life Insurance Company Ltd.,ind_prs21022018
+2018-06-29,MC100,exc,ARVIND,Arvind Ltd.,ind_prs24052018
+2018-06-29,MC100,exc,TATACOMM,Tata Communications Ltd.,ind_prs24052018
+2018-06-29,MC100,inc,FRETAIL,Future Retail Ltd.,ind_prs24052018
+2018-06-29,MC100,inc,QUESS,Quess Corp Ltd.,ind_prs24052018
+2018-09-28,MC100,exc,AIAENG,AIA Engineering Ltd.,ind_prs28082018
+2018-09-28,MC100,exc,BIOCON,Biocon Ltd.,ind_prs28082018
+2018-09-28,MC100,exc,ICICIGI,ICICI Lombard General Insurance Company Ltd.,ind_prs28082018
+2018-09-28,MC100,exc,IDFC,IDFC Ltd.,ind_prs28082018
+2018-09-28,MC100,exc,IBREALEST,Indiabulls Real Estate Ltd.,ind_prs28082018
+2018-09-28,MC100,exc,IRB,IRB Infrastructure Developers Ltd.,ind_prs28082018
+2018-09-28,MC100,exc,KARURVYSYA,Karur Vysya Bank Ltd.,ind_prs28082018
+2018-09-28,MC100,exc,SUZLON,Suzlon Energy Ltd.,ind_prs28082018
+2018-09-28,MC100,exc,WOCKPHARMA,Wockhardt Ltd.,ind_prs28082018
+2018-09-28,MC100,inc,AVANTIFEED,Avanti Feeds Ltd.,ind_prs28082018
+2018-09-28,MC100,inc,CUMMINSIND,Cummins India Ltd.,ind_prs28082018
+2018-09-28,MC100,inc,ESCORTS,Escorts Ltd.,ind_prs28082018
+2018-09-28,MC100,inc,GRAPHITE,Graphite India Ltd.,ind_prs28082018
+2018-09-28,MC100,inc,HEG,H.E.G. Ltd.,ind_prs28082018
+2018-09-28,MC100,inc,LTI,Larsen & Toubro Infotech Ltd.,ind_prs28082018
+2018-09-28,MC100,inc,PFC,Power Finance Corporation Ltd.,ind_prs28082018
+2018-09-28,MC100,inc,PNB,Punjab National Bank,ind_prs28082018
+2018-09-28,MC100,inc,RECLTD,Rural Electrification Corporation Ltd.,ind_prs28082018
+2018-09-28,N100,exc,CUMMINSIND,Cummins India Ltd.,ind_prs28082018
+2018-09-28,N100,exc,EMAMILTD,Emami Ltd.,ind_prs28082018
+2018-09-28,N100,exc,PFC,Power Finance Corporation Ltd.,ind_prs28082018
+2018-09-28,N100,exc,PNB,Punjab National Bank,ind_prs28082018
+2018-09-28,N100,exc,RECLTD,Rural Electrification Corporation Ltd.,ind_prs28082018
+2018-09-28,N100,inc,BANDHANBNK,Bandhan Bank Ltd.,ind_prs28082018
+2018-09-28,N100,inc,BIOCON,Biocon Ltd.,ind_prs28082018
+2018-09-28,N100,inc,HDFCLIFE,HDFC Standard Life Insurance Company Ltd.,ind_prs28082018
+2018-09-28,N100,inc,ICICIGI,ICICI Lombard General Insurance Company Ltd.,ind_prs28082018
+2018-09-28,N100,inc,NIACL,The New India Assurance Company Ltd.,ind_prs28082018
+2018-12-28,MC100,exc,BHARATFIN,Bharat Financial Inclusion Ltd.,ind_prs14122018
+2018-12-28,MC100,exc,CENTURYTEX,Century Textile & Industries Ltd.,ind_prs14122018
+2018-12-28,MC100,inc,BBTC,Bombay Burmah Trading Corporation Ltd.,ind_prs14122018
+2018-12-28,MC100,inc,VARROC,Varroc Engineering Ltd.,ind_prs14122018
+2019-03-29,MC100,exc,PAGEIND,Page Industries Ltd.,ind_prs25022019
+2019-03-29,MC100,exc,PCJEWELLER,PC Jeweller Ltd.,ind_prs25022019
+2019-03-29,MC100,exc,TV18BRDCST,TV18 Broadcast Ltd.,ind_prs25022019
+2019-03-29,MC100,exc,UBL,United Breweries Ltd.,ind_prs25022019
+2019-03-29,MC100,exc,VAKRANGEE,Vakrangee Ltd.,ind_prs25022019
+2019-03-29,MC100,inc,ABCAPITAL,Aditya Birla Capital Ltd.,ind_prs25022019
+2019-03-29,MC100,inc,OIL,Oil India Ltd.,ind_prs25022019
+2019-03-29,MC100,inc,PFIZER,Pfizer Ltd.,ind_prs25022019
+2019-03-29,MC100,inc,SUNTV,Sun TV Network Ltd.,ind_prs25022019
+2019-03-29,N100,exc,ABCAPITAL,Aditya Birla Capital Ltd.,ind_prs25022019
+2019-03-29,N100,exc,BEL,Bharat Electronics Ltd.,ind_prs25022019
+2019-03-29,N100,exc,LICHSGFIN,LIC Housing Finance Ltd.,ind_prs25022019
+2019-03-29,N100,exc,OIL,Oil India Ltd.,ind_prs25022019
+2019-03-29,N100,inc,HDFCAMC,HDFC Asset Management Company Ltd.,ind_prs25022019
+2019-03-29,N100,inc,PAGEIND,Page Industries Ltd.,ind_prs25022019
+2019-03-29,N100,inc,UBL,United Breweries Ltd.,ind_prs25022019
+2019-09-27,MC100,exc,BERGEPAINT,Berger Paints India Ltd.,ind_prs28082019
+2019-09-27,MC100,exc,DHFL,Dewan Housing Finance Corporation Ltd.,ind_prs28082019
+2019-09-27,MC100,exc,DBL,Dilip Buildcon Ltd.,ind_prs28082019
+2019-09-27,MC100,exc,DISHTV,Dish TV India Ltd.,ind_prs28082019
+2019-09-27,MC100,exc,GSKCONS,GlaxoSmithkline Consumer Healthcare Ltd.*,ind_prs28082019
+2019-09-27,MC100,exc,GRUH,Gruh Finance Ltd.*,ind_prs28082019
+2019-09-27,MC100,inc,EMAMILTD,Emami Ltd.,ind_prs28082019
+2019-09-27,MC100,inc,GODREJPROP,Godrej Properties Ltd.,ind_prs28082019
+2019-09-27,MC100,inc,IPCALAB,Ipca Laboratories Ltd.,ind_prs28082019
+2019-09-27,MC100,inc,MRF,MRF Ltd.,ind_prs28082019
+2019-09-27,MC100,inc,ORIENTBANK,Oriental Bank of Commerce,ind_prs28082019
+2019-09-27,MC100,inc,RNAM,Reliance Nippon Life Asset Management Ltd.,ind_prs28082019
+2019-09-27,MC100,inc,SAIL,Steel Authority of India Ltd.,ind_prs28082019
+2019-09-27,N100,exc,SAIL,Steel Authority of India Ltd.,ind_prs28082019
+2019-12-27,MC100,exc,ALBK,Allahabad Bank,ind_prs16122019
+2019-12-27,MC100,exc,ORIENTBANK,Oriental Bank of Commerce,ind_prs16122019
+2019-12-27,MC100,exc,TATACHEM,Tata Chemicals Ltd.,ind_prs16122019
+2019-12-27,MC100,inc,FORTIS,Fortis Healthcare Ltd.,ind_prs16122019
+2019-12-27,MC100,inc,VBL,Varun Beverages Ltd.,ind_prs16122019
+2019-12-27,MC100,inc,WHIRLPOOL,Whirlpool of India Ltd.,ind_prs16122019
+2020-03-19,N100,exc,YESBANK,Yes Bank Ltd.,ind_prs16032020
+2020-03-19,N100,inc,ADANITRANS,Adani Transmission Ltd.,ind_prs16032020
+2020-03-27,MC100,exc,YESBANK,Yes Bank Ltd.*,ind_prs19032020
+2020-03-27,MC100,exc,FCONSUMER,Future Consumer Ltd.,ind_prs18022020
+2020-03-27,MC100,exc,GRAPHITE,Graphite India Ltd.,ind_prs18022020
+2020-03-27,MC100,exc,HEG,H.E.G. Ltd.,ind_prs18022020
+2020-03-27,MC100,exc,IDBI,IDBI Bank Ltd.,ind_prs18022020
+2020-03-27,MC100,exc,NAUKRI,Info Edge (India) Ltd.,ind_prs18022020
+2020-03-27,MC100,exc,LTI,Larsen & Toubro Infotech Ltd.,ind_prs18022020
+2020-03-27,MC100,exc,NBCC,NBCC (India) Ltd.,ind_prs18022020
+2020-03-27,MC100,exc,STRTECH,Sterlite Technologies Ltd.,ind_prs18022020
+2020-03-27,MC100,exc,TORNTPHARM,Torrent Pharmaceuticals Ltd.,ind_prs18022020
+2020-03-27,MC100,exc,VARROC,Varroc Engineering Ltd.,ind_prs18022020
+2020-03-27,MC100,inc,PVR,PVR Ltd.,ind_prs19032020
+2020-03-27,MC100,inc,ADANIGAS,Adani Gas Ltd.,ind_prs18022020
+2020-03-27,MC100,inc,ADANIGREEN,Adani Green Energy Ltd.,ind_prs18022020
+2020-03-27,MC100,inc,ASHOKLEY,Ashok Leyland Ltd.,ind_prs18022020
+2020-03-27,MC100,inc,IBULHSGFIN,Indiabulls Housing Finance Ltd.,ind_prs18022020
+2020-03-27,MC100,inc,IRCTC,Indian Railway Catering And Tourism Corp. Ltd.,ind_prs18022020
+2020-03-27,MC100,inc,L&TFH,L&T Finance Holdings Ltd.,ind_prs18022020
+2020-03-27,MC100,inc,NIITTECH,NIIT Technologies Ltd.,ind_prs18022020
+2020-03-27,MC100,inc,POLYCAB,Polycab India Ltd.,ind_prs18022020
+2020-03-27,MC100,inc,IDEA,Vodafone Idea Ltd.,ind_prs18022020
+2020-03-27,MC100,inc,YESBANK,Yes Bank Ltd.,ind_prs18022020
+2020-03-27,N100,exc,ASHOKLEY,Ashok Leyland Ltd.,ind_prs18022020
+2020-03-27,N100,exc,IBULHSGFIN,Indiabulls Housing Finance Ltd.,ind_prs18022020
+2020-03-27,N100,exc,L&TFH,L&T Finance Holdings Ltd.,ind_prs18022020
+2020-03-27,N100,exc,IDEA,Vodafone Idea Ltd.,ind_prs18022020
+2020-03-27,N100,exc,YESBANK,Yes Bank Ltd.,ind_prs18022020
+2020-03-27,N100,inc,ADANITRANS,Adani Transmission Ltd.,ind_prs18022020
+2020-03-27,N100,inc,IDBI,IDBI Bank Ltd.,ind_prs18022020
+2020-03-27,N100,inc,NAUKRI,Info Edge (India) Ltd.,ind_prs18022020
+2020-03-27,N100,inc,LTI,Larsen & Toubro Infotech Ltd.,ind_prs18022020
+2020-03-27,N100,inc,TORNTPHARM,Torrent Pharmaceuticals Ltd.,ind_prs18022020
+2020-06-26,MC100,exc,ENGINERSIN,Engineers India Ltd.,ind_prs10062020
+2020-06-26,MC100,exc,FCONSUMER,Future Consumer Ltd.,ind_prs10062020
+2020-06-26,MC100,exc,GRAPHITE,Graphite India Ltd.,ind_prs10062020
+2020-06-26,MC100,exc,HEG,H.E.G. Ltd.,ind_prs10062020
+2020-06-26,MC100,exc,INDIANB,Indian Bank,ind_prs10062020
+2020-06-26,MC100,exc,IGL,Indraprastha Gas Ltd.,ind_prs10062020
+2020-06-26,MC100,exc,NAUKRI,Info Edge (India) Ltd.,ind_prs10062020
+2020-06-26,MC100,exc,MUTHOOTFIN,Muthoot Finance Ltd.,ind_prs10062020
+2020-06-26,MC100,exc,NBCC,NBCC (India) Ltd.,ind_prs10062020
+2020-06-26,MC100,exc,STRTECH,Sterlite Technologies Ltd.,ind_prs10062020
+2020-06-26,MC100,exc,TORNTPHARM,Torrent Pharmaceuticals Ltd.,ind_prs10062020
+2020-06-26,MC100,exc,VARROC,Varroc Engineering Ltd.,ind_prs10062020
+2020-06-26,MC100,inc,AARTIIND,Aarti Industries Ltd.,ind_prs10062020
+2020-06-26,MC100,inc,ADANIGAS,Adani Gas Ltd.,ind_prs10062020
+2020-06-26,MC100,inc,ASHOKLEY,Ashok Leyland Ltd.,ind_prs10062020
+2020-06-26,MC100,inc,LALPATHLAB,Dr. Lal Path Labs Ltd.,ind_prs10062020
+2020-06-26,MC100,inc,GUJGASLTD,Gujarat Gas Ltd.,ind_prs10062020
+2020-06-26,MC100,inc,IBULHSGFIN,Indiabulls Housing Finance Ltd.,ind_prs10062020
+2020-06-26,MC100,inc,IRCTC,Corporation Ltd.,ind_prs10062020
+2020-06-26,MC100,inc,L&TFH,L&T Finance Holdings Ltd.,ind_prs10062020
+2020-06-26,MC100,inc,NIITTECH,NIIT Technologies Ltd.,ind_prs10062020
+2020-06-26,MC100,inc,POLYCAB,Polycab India Ltd.,ind_prs10062020
+2020-06-26,MC100,inc,TRENT,Trent Ltd.,ind_prs10062020
+2020-06-26,MC100,inc,IDEA,Vodafone Idea Ltd.,ind_prs10062020
+2020-06-26,N100,exc,ASHOKLEY,Ashok Leyland Ltd.,ind_prs10062020
+2020-06-26,N100,exc,IBULHSGFIN,Indiabulls Housing Finance Ltd.,ind_prs10062020
+2020-06-26,N100,exc,L&TFH,L&T Finance Holdings Ltd.,ind_prs10062020
+2020-06-26,N100,exc,NIACL,The New India Assurance Company Ltd.,ind_prs10062020
+2020-06-26,N100,exc,IDEA,Vodafone Idea Ltd.,ind_prs10062020
+2020-06-26,N100,exc,TATAMTRDVR,Tata Motors Ltd DVR,ind_prs10062020
+2020-06-26,N100,inc,ABBOTINDIA,Abbott India Ltd.,ind_prs10062020
+2020-06-26,N100,inc,IGL,Indraprastha Gas Ltd.,ind_prs10062020
+2020-06-26,N100,inc,NAUKRI,Info Edge (India) Ltd.,ind_prs10062020
+2020-06-26,N100,inc,MUTHOOTFIN,Muthoot Finance Ltd.,ind_prs10062020
+2020-06-26,N100,inc,TORNTPHARM,Torrent Pharmaceuticals Ltd.,ind_prs10062020
+2020-07-31,N100,exc,VEDL,Vedanta Ltd.,ind_prs02072020_1
+2020-07-31,N100,inc,SBICARD,SBI Cards and Payment Services Ltd.,ind_prs02072020_1
+2020-09-25,MC100,exc,ADANIPOWER,Adani Power Ltd.*,ind_prs20082020
+2020-09-25,MC100,exc,ALKEM,Alkem Laboratories Ltd.,ind_prs20082020
+2020-09-25,MC100,exc,HEXAWARE,Hexaware Technologies Ltd.*,ind_prs20082020
+2020-09-25,MC100,exc,IDBI,IDBI Bank Ltd.,ind_prs20082020
+2020-09-25,MC100,exc,JUBILANT,Jubilant Life Sciences Ltd.#,ind_prs20082020
+2020-09-25,MC100,exc,LTI,Larsen & Toubro Infotech Ltd.,ind_prs20082020
+2020-09-25,MC100,exc,MRPL,Mangalore Refinery & Petrochemicals Ltd.,ind_prs20082020
+2020-09-25,MC100,exc,PNBHOUSING,PNB Housing Finance Ltd.,ind_prs20082020
+2020-09-25,MC100,exc,QUESS,Quess Corp Ltd.,ind_prs20082020
+2020-09-25,MC100,exc,TATACONSUM,Tata Consumer Products Ltd.,ind_prs20082020
+2020-09-25,MC100,inc,ADANIENT,Adani Enterprises Ltd.,ind_prs20082020
+2020-09-25,MC100,inc,APLLTD,Alembic Pharmaceuticals Ltd.,ind_prs20082020
+2020-09-25,MC100,inc,ISEC,ICICI Securities Ltd.,ind_prs20082020
+2020-09-25,MC100,inc,NAVINFLUOR,Navin Fluorine International Ltd.,ind_prs20082020
+2020-09-25,MC100,inc,PAGEIND,Page Industries Ltd.,ind_prs20082020
+2020-09-25,MC100,inc,SANOFI,Sanofi India Ltd.,ind_prs20082020
+2020-09-25,MC100,inc,SRTRANSFIN,Shriram Transport Finance Co. Ltd.,ind_prs20082020
+2020-09-25,MC100,inc,TATACHEM,Tata Chemicals Ltd.,ind_prs20082020
+2020-09-25,MC100,inc,YESBANK,Yes Bank Ltd.,ind_prs20082020
+2020-09-25,MC100,inc,ZEEL,Zee Entertainment Enterprises Ltd.,ind_prs20082020
+2020-09-25,N100,exc,NHPC,NHPC Ltd.,ind_prs20082020
+2020-09-25,N100,exc,PAGEIND,Page Industries Ltd.,ind_prs20082020
+2020-09-25,N100,exc,SRTRANSFIN,Shriram Transport Finance Co. Ltd.,ind_prs20082020
+2020-09-25,N100,exc,ZEEL,Zee Entertainment Enterprises Ltd.,ind_prs20082020
+2020-09-25,N100,inc,ADANIGREEN,Adani Green Energy Ltd.,ind_prs20082020
+2020-09-25,N100,inc,ALKEM,Alkem Laboratories Ltd.,ind_prs20082020
+2020-09-25,N100,inc,LTI,Larsen & Toubro Infotech Ltd.,ind_prs20082020
+2020-09-25,N100,inc,TATACONSUM,Tata Consumer Products Ltd.,ind_prs20082020
+2021-03-31,MC100,exc,ADANIENT,Adani Enterprises Ltd.,ind_prs23022021
+2021-03-31,MC100,exc,APOLLOHOSP,Apollo Hospitals Enterprise Ltd.,ind_prs23022021
+2021-03-31,MC100,exc,EDELWEISS,Edelweiss Financial Services Ltd.,ind_prs23022021
+2021-03-31,MC100,exc,FRETAIL,Future Retail Ltd.,ind_prs23022021
+2021-03-31,MC100,exc,HUDCO,Housing & Urban Development Corporation Ltd.,ind_prs23022021
+2021-03-31,MC100,exc,JUBLFOOD,Jubilant Foodworks Ltd.,ind_prs23022021
+2021-03-31,MC100,exc,MRF,MRF Ltd.,ind_prs23022021
+2021-03-31,MC100,exc,NATIONALUM,National Aluminium Co. Ltd.,ind_prs23022021
+2021-03-31,MC100,exc,RAJESHEXPO,Rajesh Exports Ltd.,ind_prs23022021
+2021-03-31,MC100,exc,YESBANK,Yes Bank Ltd.,ind_prs23022021
+2021-03-31,MC100,inc,BANKBARODA,Bank of Baroda,ind_prs23022021
+2021-03-31,MC100,inc,CONCOR,Container Corporation of India Ltd.,ind_prs23022021
+2021-03-31,MC100,inc,DEEPAKNTR,Deepak Nitrite Ltd.,ind_prs23022021
+2021-03-31,MC100,inc,DIXON,Dixon Technologies (India) Ltd.,ind_prs23022021
+2021-03-31,MC100,inc,HAL,Hindustan Aeronautics Ltd.,ind_prs23022021
+2021-03-31,MC100,inc,HINDZINC,Hindustan Zinc Ltd.,ind_prs23022021
+2021-03-31,MC100,inc,INDIAMART,Indiamart Intermesh Ltd.,ind_prs23022021
+2021-03-31,MC100,inc,LAURUSLABS,Laurus Labs Ltd.,ind_prs23022021
+2021-03-31,MC100,inc,PFC,Power Finance Corporation Ltd.,ind_prs23022021
+2021-03-31,MC100,inc,TATAELXSI,Tata Elxsi Ltd.,ind_prs23022021
+2021-03-31,N100,exc,BANKBARODA,Bank of Baroda,ind_prs23022021
+2021-03-31,N100,exc,CONCOR,Container Corporation of India Ltd.,ind_prs23022021
+2021-03-31,N100,exc,GICRE,General Insurance Corporation of India,ind_prs23022021
+2021-03-31,N100,exc,HINDZINC,Hindustan Zinc Ltd.,ind_prs23022021
+2021-03-31,N100,exc,OFSS,Oracle Financial Services Software Ltd.,ind_prs23022021
+2021-03-31,N100,exc,PFC,Power Finance Corporation Ltd.,ind_prs23022021
+2021-03-31,N100,inc,ADANIENT,Adani Enterprises Ltd.,ind_prs23022021
+2021-03-31,N100,inc,APOLLOHOSP,Apollo Hospitals Enterprise Ltd.,ind_prs23022021
+2021-03-31,N100,inc,JUBLFOOD,Jubilant Foodworks Ltd.,ind_prs23022021
+2021-03-31,N100,inc,MRF,MRF Ltd.,ind_prs23022021
+2021-03-31,N100,inc,VEDL,Vedanta Ltd.,ind_prs23022021
+2021-03-31,N100,inc,YESBANK,Yes Bank Ltd.,ind_prs23022021
+2021-06-30,N100,exc,MOTHERSUMI,Motherson Sumi Systems Ltd.,ind_prs15062021
+2021-06-30,N100,inc,GLAND,Gland Pharma Ltd.,ind_prs15062021
+2021-10-29,MC100,exc,GMRINFRA,GMR Infrastructure Ltd.,ind_prs22102021
+2021-10-29,MC100,inc,SONACOMS,Sona BLW Precision Forgings Ltd.,ind_prs22102021
+2022-03-31,MC100,exc,AJANTPHARM,Ajanta Pharmaceuticals Ltd.,ind_prs24022022_1
+2022-03-31,MC100,exc,AMARAJABAT,Amara Raja Batteries Ltd.,ind_prs24022022_1
+2022-03-31,MC100,exc,CASTROLIND,Castrol India Ltd.,ind_prs24022022_1
+2022-03-31,MC100,exc,CUB,City Union Bank Ltd.,ind_prs24022022_1
+2022-03-31,MC100,exc,DHANI,Dhani Services Ltd.,ind_prs24022022_1
+2022-03-31,MC100,exc,ENDURANCE,Endurance Technologies Ltd.,ind_prs24022022_1
+2022-03-31,MC100,exc,GODREJIND,Godrej Industries Ltd.,ind_prs24022022_1
+2022-03-31,MC100,exc,HINDCOPPER,Hindustan Copper Ltd.,ind_prs24022022_1
+2022-03-31,MC100,exc,IRFC,Indian Railway Finance Corporation Ltd.,ind_prs24022022_1
+2022-03-31,MC100,exc,MGL,Mahanagar Gas Ltd.,ind_prs24022022_1
+2022-03-31,MC100,exc,MINDTREE,MindTree Ltd.,ind_prs24022022_1
+2022-03-31,MC100,exc,NATCOPHARM,NATCO Pharma Ltd.,ind_prs24022022_1
+2022-03-31,MC100,exc,PFIZER,Pfizer Ltd.,ind_prs24022022_1
+2022-03-31,MC100,exc,RBLBANK,RBL Bank Ltd.,ind_prs24022022_1
+2022-03-31,MC100,exc,SANOFI,Sanofi India Ltd.,ind_prs24022022_1
+2022-03-31,MC100,exc,SRF,SRF Ltd.,ind_prs24022022_1
+2022-03-31,MC100,inc,ABB,ABB India Ltd.,ind_prs24022022_1
+2022-03-31,MC100,inc,ABBOTINDIA,Abbott India Ltd.,ind_prs24022022_1
+2022-03-31,MC100,inc,AUROPHARMA,Aurobindo Pharma Ltd.,ind_prs24022022_1
+2022-03-31,MC100,inc,CLEAN,Clean Science and Technology Ltd.,ind_prs24022022_1
+2022-03-31,MC100,inc,HINDPETRO,Hindustan Petroleum Corporation Ltd.,ind_prs24022022_1
+2022-03-31,MC100,inc,IDBI,IDBI Bank Ltd.,ind_prs24022022_1
+2022-03-31,MC100,inc,IEX,Indian Energy Exchange Ltd.,ind_prs24022022_1
+2022-03-31,MC100,inc,IGL,Indraprastha Gas Ltd.,ind_prs24022022_1
+2022-03-31,MC100,inc,JINDALSTEL,Jindal Steel & Power Ltd.,ind_prs24022022_1
+2022-03-31,MC100,inc,MAXHEALTH,Max Healthcare Institute Ltd.,ind_prs24022022_1
+2022-03-31,MC100,inc,METROPOLIS,Metropolis Healthcare Ltd.,ind_prs24022022_1
+2022-03-31,MC100,inc,OFSS,Oracle Financial Services Software Ltd.,ind_prs24022022_1
+2022-03-31,MC100,inc,POLICYBZR,PB Fintech Ltd.,ind_prs24022022_1
+2022-03-31,MC100,inc,PERSISTENT,Persistent Systems Ltd.,ind_prs24022022_1
+2022-03-31,MC100,inc,TRIDENT,Trident Ltd.,ind_prs24022022_1
+2022-03-31,MC100,inc,YESBANK,Yes Bank Ltd.,ind_prs24022022_1
+2022-03-31,N100,exc,AUROPHARMA,Aurobindo Pharma Ltd.,ind_prs24022022_1
+2022-03-31,N100,exc,HINDPETRO,Hindustan Petroleum Corporation Ltd.,ind_prs24022022_1
+2022-03-31,N100,exc,IGL,Indraprastha Gas Ltd.,ind_prs24022022_1
+2022-03-31,N100,exc,JINDALSTEL,Jindal Steel & Power Ltd.,ind_prs24022022_1
+2022-03-31,N100,exc,YESBANK,Yes Bank Ltd.,ind_prs24022022_1
+2022-03-31,N100,inc,NYKAA,FSN E-Commerce Ventures Ltd.,ind_prs24022022_1
+2022-03-31,N100,inc,MINDTREE,MindTree Ltd.,ind_prs24022022_1
+2022-03-31,N100,inc,PAYTM,One 97 Communications Ltd.,ind_prs24022022_1
+2022-03-31,N100,inc,SRF,SRF Ltd.,ind_prs24022022_1
+2022-03-31,N100,inc,ZOMATO,Zomato Ltd.,ind_prs24022022_1
+2022-05-04,MC100,exc,AARTIIND,Aarti Industries Ltd.,ind_prs05042022
+2022-05-04,MC100,inc,HONAUT,Honeywell Automation India Ltd.,ind_prs05042022
+2022-08-08,MC100,exc,TATAPOWER,Tata Power Co. Ltd.*,ind_prs11072022
+2022-08-08,MC100,inc,DELHIVERY,Delhivery Ltd.,ind_prs11072022
+2022-08-08,N100,exc,NMDC,NMDC Ltd.,ind_prs11072022
+2022-08-08,N100,exc,PEL,Piramal Enterprises Ltd.,ind_prs11072022
+2022-08-08,N100,inc,LICI,Life Insurance Corporation of India,ind_prs11072022
+2022-08-08,N100,inc,TATAPOWER,Tata Power Co. Ltd.,ind_prs11072022
+2022-09-30,MC100,exc,ATGL,Adani Total Gas Ltd.,ind_prs01092022
+2022-09-30,MC100,exc,APLLTD,Alembic Pharmaceuticals Ltd.,ind_prs01092022
+2022-09-30,MC100,exc,APOLLOTYRE,Apollo Tyres Ltd.,ind_prs01092022
+2022-09-30,MC100,exc,BEL,Bharat Electronics Ltd.,ind_prs01092022
+2022-09-30,MC100,exc,EXIDEIND,Exide Industries Ltd.,ind_prs01092022
+2022-09-30,MC100,exc,GLENMARK,Glenmark Pharmaceuticals Ltd.,ind_prs01092022
+2022-09-30,MC100,exc,HAL,Hindustan Aeronautics Ltd.,ind_prs01092022
+2022-09-30,MC100,exc,IDBI,IDBI Bank Ltd.,ind_prs01092022
+2022-09-30,MC100,exc,IRCTC,Indian Railway Catering and Tourism Corporation Ltd.,ind_prs01092022
+2022-09-30,MC100,exc,MANAPPURAM,Manappuram Finance Ltd.,ind_prs01092022
+2022-09-30,MC100,exc,METROPOLIS,Metropolis Healthcare Ltd.,ind_prs01092022
+2022-09-30,MC100,exc,MPHASIS,MphasiS Ltd.,ind_prs01092022
+2022-09-30,MC100,inc,AWL,Adani Wilmar Ltd.,ind_prs01092022
+2022-09-30,MC100,inc,JUBLFOOD,Jubilant Foodworks Ltd.,ind_prs01092022
+2022-09-30,MC100,inc,LINDEINDIA,Linde India Ltd.,ind_prs01092022
+2022-09-30,MC100,inc,LUPIN,Lupin Ltd.,ind_prs01092022
+2022-09-30,MC100,inc,MSUMI,Motherson Sumi Wiring India Ltd.,ind_prs01092022
+2022-09-30,MC100,inc,PATANJALI,Patanjali Foods Ltd.,ind_prs01092022
+2022-09-30,MC100,inc,POONAWALLA,Poonawalla Fincorp Ltd.,ind_prs01092022
+2022-09-30,MC100,inc,PNB,Punjab National Bank,ind_prs01092022
+2022-09-30,MC100,inc,SAIL,Steel Authority of India Ltd.,ind_prs01092022
+2022-09-30,MC100,inc,TTML,Tata Teleservices (Maharashtra) Ltd.,ind_prs01092022
+2022-09-30,MC100,inc,TIINDIA,Tube Investments of India Ltd.,ind_prs01092022
+2022-09-30,MC100,inc,ZYDUSLIFE,Zydus Lifesciences Ltd.,ind_prs01092022
+2022-09-30,N100,exc,JUBLFOOD,Jubilant Foodworks Ltd.,ind_prs01092022
+2022-09-30,N100,exc,LUPIN,Lupin Ltd.,ind_prs01092022
+2022-09-30,N100,exc,MINDTREE,MindTree Ltd.*,ind_prs01092022
+2022-09-30,N100,exc,PNB,Punjab National Bank,ind_prs01092022
+2022-09-30,N100,exc,SAIL,Steel Authority of India Ltd.,ind_prs01092022
+2022-09-30,N100,exc,ZYDUSLIFE,Zydus Lifesciences Ltd.,ind_prs01092022
+2022-09-30,N100,inc,ATGL,Adani Total Gas Ltd.,ind_prs01092022
+2022-09-30,N100,inc,BEL,Bharat Electronics Ltd.,ind_prs01092022
+2022-09-30,N100,inc,HAL,Hindustan Aeronautics Ltd.,ind_prs01092022
+2022-09-30,N100,inc,IRCTC,Indian Railway Catering and Tourism Corporation Ltd.,ind_prs01092022
+2022-09-30,N100,inc,MPHASIS,MphasiS Ltd.,ind_prs01092022
+2022-09-30,N100,inc,MOTHERSON,Samvardhana Motherson International Ltd.,ind_prs01092022
+2023-03-31,MC100,exc,ABB,ABB India Ltd.,ind_prs17022023_1
+2023-03-31,MC100,exc,AWL,Adani Wilmar Ltd.,ind_prs17022023_1
+2023-03-31,MC100,exc,CANBK,Canara Bank,ind_prs17022023_1
+2023-03-31,MC100,exc,CLEAN,Clean Science and Technology Ltd.,ind_prs17022023_1
+2023-03-31,MC100,exc,EMAMILTD,Emami Ltd.,ind_prs17022023_1
+2023-03-31,MC100,exc,GSPL,Gujarat State Petronet Ltd.,ind_prs17022023_1
+2023-03-31,MC100,exc,ISEC,ICICI Securities Ltd.,ind_prs17022023_1
+2023-03-31,MC100,exc,INDIAMART,Indiamart Intermesh Ltd.,ind_prs17022023_1
+2023-03-31,MC100,exc,IEX,Indian Energy Exchange Ltd.,ind_prs17022023_1
+2023-03-31,MC100,exc,LINDEINDIA,Linde India Ltd.,ind_prs17022023_1
+2023-03-31,MC100,exc,NATIONALUM,National Aluminium Co. Ltd.,ind_prs17022023_1
+2023-03-31,MC100,exc,NAM-INDIA,Nippon Life India Asset Management Ltd.,ind_prs17022023_1
+2023-03-31,MC100,exc,PAGEIND,Page Industries Ltd.,ind_prs17022023_1
+2023-03-31,MC100,exc,VBL,Varun Beverages Ltd.,ind_prs17022023_1
+2023-03-31,MC100,inc,ADANIPOWER,Adani Power Ltd.,ind_prs17022023_1
+2023-03-31,MC100,inc,APOLLOTYRE,Apollo Tyres Ltd.,ind_prs17022023_1
+2023-03-31,MC100,inc,BANDHANBNK,Bandhan Bank Ltd.,ind_prs17022023_1
+2023-03-31,MC100,inc,BIOCON,Biocon Ltd.,ind_prs17022023_1
+2023-03-31,MC100,inc,CGPOWER,CG Power and Industrial Solutions Ltd.,ind_prs17022023_1
+2023-03-31,MC100,inc,DEVYANI,Devyani International Ltd.,ind_prs17022023_1
+2023-03-31,MC100,inc,GLAND,Gland Pharma Ltd.,ind_prs17022023_1
+2023-03-31,MC100,inc,FLUOROCHEM,Gujarat Fluorochemicals Ltd.,ind_prs17022023_1
+2023-03-31,MC100,inc,IRFC,Indian Railway Finance Corporation Ltd.,ind_prs17022023_1
+2023-03-31,MC100,inc,MPHASIS,MphasiS Ltd.,ind_prs17022023_1
+2023-03-31,MC100,inc,NHPC,NHPC Ltd.,ind_prs17022023_1
+2023-03-31,MC100,inc,NMDC,NMDC Ltd.,ind_prs17022023_1
+2023-03-31,MC100,inc,PAYTM,One 97 Communications Ltd.,ind_prs17022023_1
+2023-03-31,MC100,inc,PEL,Piramal Enterprises Ltd.,ind_prs17022023_1
+2023-03-31,N100,exc,BANDHANBNK,Bandhan Bank Ltd.,ind_prs17022023_1
+2023-03-31,N100,exc,BIOCON,Biocon Ltd.,ind_prs17022023_1
+2023-03-31,N100,exc,GLAND,Gland Pharma Ltd.,ind_prs17022023_1
+2023-03-31,N100,exc,MPHASIS,MphasiS Ltd.,ind_prs17022023_1
+2023-03-31,N100,exc,PAYTM,One 97 Communications Ltd.,ind_prs17022023_1
+2023-03-31,N100,inc,ABB,ABB India Ltd.,ind_prs17022023_1
+2023-03-31,N100,inc,AWL,Adani Wilmar Ltd.,ind_prs17022023_1
+2023-03-31,N100,inc,CANBK,Canara Bank,ind_prs17022023_1
+2023-03-31,N100,inc,PAGEIND,Page Industries Ltd.,ind_prs17022023_1
+2023-03-31,N100,inc,VBL,Varun Beverages Ltd.,ind_prs17022023_1
+2023-07-13,MC100,exc,JINDALSTEL,Jindal Steel & Power Ltd.*,ind_prs04072023
+2023-07-13,MC100,inc,MANKIND,Mankind Pharma Ltd.,ind_prs04072023
+2023-07-13,N100,exc,HDFC,Housing Development Finance Corporation Ltd.,ind_prs04072023
+2023-07-13,N100,inc,JINDALSTEL,Jindal Steel & Power Ltd.,ind_prs04072023
+2023-09-29,MC100,exc,ABBOTINDIA,Abbott India Ltd.,ind_prs17082023
+2023-09-29,MC100,exc,HINDZINC,Hindustan Zinc Ltd.,ind_prs17082023
+2023-09-29,MC100,exc,HONAUT,Honeywell Automation India Ltd.,ind_prs17082023
+2023-09-29,MC100,exc,OFSS,Oracle Financial Services Software Ltd.,ind_prs17082023
+2023-09-29,MC100,exc,PNB,Punjab National Bank,ind_prs17082023
+2023-09-29,MC100,exc,SHRIRAMFIN,Shriram Finance Ltd.,ind_prs17082023
+2023-09-29,MC100,exc,TTML,Tata Teleservices (Maharashtra) Ltd.,ind_prs17082023
+2023-09-29,MC100,exc,TRENT,Trent Ltd.,ind_prs17082023
+2023-09-29,MC100,exc,TRIDENT,Trident Ltd.,ind_prs17082023
+2023-09-29,MC100,exc,TVSMOTOR,TVS Motor Company Ltd.,ind_prs17082023
+2023-09-29,MC100,exc,WHIRLPOOL,Whirlpool of India Ltd.,ind_prs17082023
+2023-09-29,MC100,exc,ZYDUSLIFE,Zydus Lifesciences Ltd.,ind_prs17082023
+2023-09-29,MC100,inc,ACC,ACC Ltd.,ind_prs17082023
+2023-09-29,MC100,inc,APLAPOLLO,APL Apollo Tubes Ltd.,ind_prs17082023
+2023-09-29,MC100,inc,BDL,Bharat Dynamics Ltd.,ind_prs17082023
+2023-09-29,MC100,inc,FACT,Fertilisers and Chemicals Travancore Ltd.,ind_prs17082023
+2023-09-29,MC100,inc,NYKAA,FSN E-Commerce Ventures Ltd.,ind_prs17082023
+2023-09-29,MC100,inc,HDFCAMC,HDFC Asset Management Company Ltd.,ind_prs17082023
+2023-09-29,MC100,inc,INDUSTOWER,Indus Towers Ltd.,ind_prs17082023
+2023-09-29,MC100,inc,KPITTECH,KPIT Technologies Ltd.,ind_prs17082023
+2023-09-29,MC100,inc,LODHA,Macrotech Developers Ltd.,ind_prs17082023
+2023-09-29,MC100,inc,MAZDOCK,Mazagoan Dock Shipbuilders Ltd.,ind_prs17082023
+2023-09-29,MC100,inc,PAGEIND,Page Industries Ltd.,ind_prs17082023
+2023-09-29,MC100,inc,RVNL,Rail Vikas Nigam Ltd.,ind_prs17082023
+2023-09-29,N100,exc,ACC,ACC Ltd.,ind_prs17082023
+2023-09-29,N100,exc,NYKAA,FSN E-Commerce Ventures Ltd.,ind_prs17082023
+2023-09-29,N100,exc,HDFCAMC,HDFC Asset Management Company Ltd.,ind_prs17082023
+2023-09-29,N100,exc,INDUSTOWER,Indus Towers Ltd.,ind_prs17082023
+2023-09-29,N100,exc,PAGEIND,Page Industries Ltd.,ind_prs17082023
+2023-09-29,N100,inc,PNB,Punjab National Bank,ind_prs17082023
+2023-09-29,N100,inc,SHRIRAMFIN,Shriram Finance Ltd.,ind_prs17082023
+2023-09-29,N100,inc,TRENT,Trent Ltd.,ind_prs17082023
+2023-09-29,N100,inc,TVSMOTOR,TVS Motor Company Ltd.,ind_prs17082023
+2023-09-29,N100,inc,ZYDUSLIFE,Zydus Lifesciences Ltd.,ind_prs17082023
+2023-09-29,N100,inc,TATAMTRDVR,Tata Motors Ltd. DVR,ind_prs17082023
+2024-03-28,MC100,exc,ADANIPOWER,Adani Power Ltd.,ind_prs28022024
+2024-03-28,MC100,exc,BATAINDIA,Bata India Ltd.,ind_prs28022024
+2024-03-28,MC100,exc,COROMANDEL,Coromandel International Ltd.,ind_prs28022024
+2024-03-28,MC100,exc,CROMPTON,Crompton Greaves Consumer Electricals Ltd.,ind_prs28022024
+2024-03-28,MC100,exc,DEVYANI,Devyani International Ltd.,ind_prs28022024
+2024-03-28,MC100,exc,FLUOROCHEM,Gujarat Fluorochemicals Ltd.,ind_prs28022024
+2024-03-28,MC100,exc,IRFC,Indian Railway Finance Corporation Ltd.,ind_prs28022024
+2024-03-28,MC100,exc,MSUMI,Motherson Sumi Wiring India Ltd.,ind_prs28022024
+2024-03-28,MC100,exc,NAVINFLUOR,Navin Fluorine International Ltd.,ind_prs28022024
+2024-03-28,MC100,exc,PFC,Power Finance Corporation Ltd.,ind_prs28022024
+2024-03-28,MC100,exc,RECLTD,REC Ltd.,ind_prs28022024
+2024-03-28,MC100,exc,RAMCOCEM,The Ramco Cements Ltd.,ind_prs28022024
+2024-03-28,MC100,exc,UBL,United Breweries Ltd.,ind_prs28022024
+2024-03-28,MC100,inc,MAHABANK,Bank of Maharashtra,ind_prs28022024
+2024-03-28,MC100,inc,GMRINFRA,GMR Airports Infrastructure Ltd.,ind_prs28022024
+2024-03-28,MC100,inc,IDBI,IDBI Bank Ltd.,ind_prs28022024
+2024-03-28,MC100,inc,IREDA,Indian Renewable Energy Development Agency Ltd.,ind_prs28022024
+2024-03-28,MC100,inc,JSWINFRA,JSW Infrastructure Ltd.,ind_prs28022024
+2024-03-28,MC100,inc,KALYANKJIL,Kalyan Jewellers India Ltd.,ind_prs28022024
+2024-03-28,MC100,inc,OFSS,Oracle Financial Services Software Ltd.,ind_prs28022024
+2024-03-28,MC100,inc,PIIND,PI Industries Ltd.,ind_prs28022024
+2024-03-28,MC100,inc,SJVN,SJVN Ltd.,ind_prs28022024
+2024-03-28,MC100,inc,SUPREMEIND,Supreme Industries Ltd.,ind_prs28022024
+2024-03-28,MC100,inc,SUZLON,Suzlon Energy Ltd.,ind_prs28022024
+2024-03-28,MC100,inc,TATATECH,Tata Technologies Ltd.,ind_prs28022024
+2024-03-28,MC100,inc,UPL,UPL Ltd.,ind_prs28022024
+2024-03-28,N100,exc,AWL,Adani Wilmar Ltd.,ind_prs28022024
+2024-03-28,N100,exc,MUTHOOTFIN,Muthoot Finance Ltd.,ind_prs28022024
+2024-03-28,N100,exc,PIIND,PI Industries Ltd.,ind_prs28022024
+2024-03-28,N100,exc,PGHH,Procter & Gamble Hygiene & Health Care Ltd.,ind_prs28022024
+2024-03-28,N100,exc,UPL,UPL Ltd.,ind_prs28022024
+2024-03-28,N100,inc,ADANIPOWER,Adani Power Ltd.,ind_prs28022024
+2024-03-28,N100,inc,IRFC,Indian Railway Finance Corporation Ltd.,ind_prs28022024
+2024-03-28,N100,inc,JIOFIN,Jio Financial Services Ltd.,ind_prs28022024
+2024-03-28,N100,inc,PFC,Power Finance Corporation Ltd.,ind_prs28022024
+2024-03-28,N100,inc,RECLTD,REC Ltd.,ind_prs28022024
+2024-09-30,MC100,exc,BHEL,Bharat Heavy Electricals Ltd.,ind_prs23082024
+2024-09-30,MC100,exc,DALBHARAT,Dalmia Bharat Ltd.,ind_prs23082024
+2024-09-30,MC100,exc,DEEPAKNTR,Deepak Nitrite Ltd.,ind_prs23082024
+2024-09-30,MC100,exc,LALPATHLAB,Dr. Lal Path Labs Ltd.,ind_prs23082024
+2024-09-30,MC100,exc,FORTIS,Fortis Healthcare Ltd.,ind_prs23082024
+2024-09-30,MC100,exc,GLAND,Gland Pharma Ltd.,ind_prs23082024
+2024-09-30,MC100,exc,GUJGASLTD,Gujarat Gas Ltd.,ind_prs23082024
+2024-09-30,MC100,exc,IPCALAB,Ipca Laboratories Ltd.,ind_prs23082024
+2024-09-30,MC100,exc,JSWENERGY,JSW Energy Ltd.,ind_prs23082024
+2024-09-30,MC100,exc,LTTS,L&T Technology Services Ltd.,ind_prs23082024
+2024-09-30,MC100,exc,LAURUSLABS,Laurus Labs Ltd.,ind_prs23082024
+2024-09-30,MC100,exc,LODHA,Macrotech Developers Ltd.,ind_prs23082024
+2024-09-30,MC100,exc,NHPC,NHPC Ltd.,ind_prs23082024
+2024-09-30,MC100,exc,PEL,Piramal Enterprises Ltd.,ind_prs23082024
+2024-09-30,MC100,exc,SUNTV,Sun TV Network Ltd.,ind_prs23082024
+2024-09-30,MC100,exc,SYNGENE,Syngene International Ltd.,ind_prs23082024
+2024-09-30,MC100,exc,UNIONBANK,Union Bank of India,ind_prs23082024
+2024-09-30,MC100,exc,IDEA,Vodafone Idea Ltd.,ind_prs23082024
+2024-09-30,MC100,exc,ZEEL,Zee Entertainment Enterprises Ltd.,ind_prs23082024
+2024-09-30,MC100,inc,BHARTIHEXA,Bharti Hexacom Ltd.,ind_prs23082024
+2024-09-30,MC100,inc,CENTRALBK,Central Bank of India,ind_prs23082024
+2024-09-30,MC100,inc,COCHINSHIP,Cochin Shipyard Ltd.,ind_prs23082024
+2024-09-30,MC100,inc,COLPAL,Colgate Palmolive (India) Ltd.,ind_prs23082024
+2024-09-30,MC100,inc,EXIDEIND,Exide Industries Ltd.,ind_prs23082024
+2024-09-30,MC100,inc,HINDZINC,Hindustan Zinc Ltd.,ind_prs23082024
+2024-09-30,MC100,inc,HUDCO,Housing & Urban Development Corporation Ltd.,ind_prs23082024
+2024-09-30,MC100,inc,IOB,Indian Overseas Bank,ind_prs23082024
+2024-09-30,MC100,inc,IREDA,Indian Renewable Energy Development Agency Ltd.,ind_prs23082024
+2024-09-30,MC100,inc,IRB,IRB Infrastructure Developers Ltd.,ind_prs23082024
+2024-09-30,MC100,inc,MRPL,Mangalore Refinery & Petrochemicals Ltd.,ind_prs23082024
+2024-09-30,MC100,inc,MARICO,Marico Ltd.,ind_prs23082024
+2024-09-30,MC100,inc,MUTHOOTFIN,Muthoot Finance Ltd.,ind_prs23082024
+2024-09-30,MC100,inc,NLCINDIA,NLC India Ltd.,ind_prs23082024
+2024-09-30,MC100,inc,PHOENIXLTD,Phoenix Mills Ltd.,ind_prs23082024
+2024-09-30,MC100,inc,SBICARD,SBI Cards and Payment Services Ltd.,ind_prs23082024
+2024-09-30,MC100,inc,SOLARINDS,Solar Industries India Ltd.,ind_prs23082024
+2024-09-30,MC100,inc,SRF,SRF Ltd.,ind_prs23082024
+2024-09-30,MC100,inc,SUNDARMFIN,Sundaram Finance Ltd.,ind_prs23082024
+2024-09-30,N100,exc,BERGEPAINT,Berger Paints India Ltd.,ind_prs23082024
+2024-09-30,N100,exc,COLPAL,Colgate Palmolive (India) Ltd.,ind_prs23082024
+2024-09-30,N100,exc,MARICO,Marico Ltd.,ind_prs23082024
+2024-09-30,N100,exc,SBICARD,SBI Cards and Payment Services Ltd.,ind_prs23082024
+2024-09-30,N100,exc,SRF,SRF Ltd.,ind_prs23082024
+2024-09-30,N100,inc,BHEL,Bharat Heavy Electricals Ltd.,ind_prs23082024
+2024-09-30,N100,inc,JSWENERGY,JSW Energy Ltd.,ind_prs23082024
+2024-09-30,N100,inc,LODHA,Macrotech Developers Ltd.,ind_prs23082024
+2024-09-30,N100,inc,NHPC,NHPC Ltd.,ind_prs23082024
+2024-09-30,N100,inc,UNIONBANK,Union Bank of India,ind_prs23082024
+2025-03-28,MC100,exc,BALKRISIND,Balkrishna Industries Ltd.,ind_prs21022025
+2025-03-28,MC100,exc,CGPOWER,CG Power and Industrial Solutions Ltd.,ind_prs21022025
+2025-03-28,MC100,exc,DELHIVERY,Delhivery Ltd.,ind_prs21022025
+2025-03-28,MC100,exc,FACT,Fertilisers and Chemicals Travancore Ltd.,ind_prs21022025
+2025-03-28,MC100,exc,IDBI,IDBI Bank Ltd.,ind_prs21022025
+2025-03-28,MC100,exc,INDHOTEL,Indian Hotels Co. Ltd.,ind_prs21022025
+2025-03-28,MC100,exc,IOB,Indian Overseas Bank,ind_prs21022025
+2025-03-28,MC100,exc,JSWINFRA,JSW Infrastructure Ltd.,ind_prs21022025
+2025-03-28,MC100,exc,MRPL,Mangalore Refinery & Petrochemicals Ltd.,ind_prs21022025
+2025-03-28,MC100,exc,NLCINDIA,NLC India Ltd.,ind_prs21022025
+2025-03-28,MC100,exc,POONAWALLA,Poonawalla Fincorp Ltd.,ind_prs21022025
+2025-03-28,MC100,exc,SUNDARMFIN,Sundaram Finance Ltd.,ind_prs21022025
+2025-03-28,MC100,exc,TATACHEM,Tata Chemicals Ltd.,ind_prs21022025
+2025-03-28,MC100,inc,ATGL,Adani Total Gas Ltd.,ind_prs21022025
+2025-03-28,MC100,inc,BHEL,Bharat Heavy Electricals Ltd.,ind_prs21022025
+2025-03-28,MC100,inc,GLENMARK,Glenmark Pharmaceuticals Ltd.,ind_prs21022025
+2025-03-28,MC100,inc,IRCTC,Indian Railway Catering and Tourism Corporation Ltd.,ind_prs21022025
+2025-03-28,MC100,inc,MOTILALOFS,Motilal Oswal Financial Services Ltd.,ind_prs21022025
+2025-03-28,MC100,inc,NATIONALUM,National Aluminium Co. Ltd.,ind_prs21022025
+2025-03-28,MC100,inc,NHPC,NHPC Ltd.,ind_prs21022025
+2025-03-28,MC100,inc,NTPCGREEN,NTPC Green Energy Ltd.,ind_prs21022025
+2025-03-28,MC100,inc,OLAELEC,Ola Electric Mobility Ltd.,ind_prs21022025
+2025-03-28,MC100,inc,PREMIERENE,Premier Energies Ltd.,ind_prs21022025
+2025-03-28,MC100,inc,UNIONBANK,Union Bank of India,ind_prs21022025
+2025-03-28,MC100,inc,VMM,Vishal Mega Mart Ltd.,ind_prs21022025
+2025-03-28,MC100,inc,WAAREEENER,Waaree Energies Ltd.,ind_prs21022025
+2025-03-28,N100,exc,ATGL,Adani Total Gas Ltd.,ind_prs21022025
+2025-03-28,N100,exc,BHEL,Bharat Heavy Electricals Ltd.,ind_prs21022025
+2025-03-28,N100,exc,IRCTC,Indian Railway Catering and Tourism Corporation Ltd.,ind_prs21022025
+2025-03-28,N100,exc,NHPC,NHPC Ltd.,ind_prs21022025
+2025-03-28,N100,exc,UNIONBANK,Union Bank of India,ind_prs21022025
+2025-03-28,N100,inc,BAJAJHFL,Bajaj Housing Finance Ltd.,ind_prs21022025
+2025-03-28,N100,inc,CGPOWER,CG Power and Industrial Solutions Ltd.,ind_prs21022025
+2025-03-28,N100,inc,HYUNDAI,Hyundai Motor India Ltd.,ind_prs21022025
+2025-03-28,N100,inc,INDHOTEL,Indian Hotels Co. Ltd.,ind_prs21022025
+2025-03-28,N100,inc,SWIGGY,Swiggy Ltd.,ind_prs21022025
+2025-09-30,MC100,exc,ABFRL,Aditya Birla Fashion and Retail Ltd.,ind_prs22082025
+2025-09-30,MC100,exc,APOLLOTYRE,Apollo Tyres Ltd.,ind_prs22082025
+2025-09-30,MC100,exc,BANDHANBNK,Bandhan Bank Ltd.,ind_prs22082025
+2025-09-30,MC100,exc,MAHABANK,Bank of Maharashtra,ind_prs22082025
+2025-09-30,MC100,exc,ESCORTS,Escorts Kubota Ltd.,ind_prs22082025
+2025-09-30,MC100,exc,HINDZINC,Hindustan Zinc Ltd.,ind_prs22082025
+2025-09-30,MC100,exc,MAXHEALTH,Max Healthcare Institute Ltd.,ind_prs22082025
+2025-09-30,MC100,exc,MAZDOCK,Mazagoan Dock Shipbuilders Ltd.,ind_prs22082025
+2025-09-30,MC100,exc,OLAELEC,Ola Electric Mobility Ltd.,ind_prs22082025
+2025-09-30,MC100,exc,PETRONET,Petronet LNG Ltd.,ind_prs22082025
+2025-09-30,MC100,exc,SJVN,SJVN Ltd.,ind_prs22082025
+2025-09-30,MC100,exc,SOLARINDS,Solar Industries India Ltd.,ind_prs22082025
+2025-09-30,MC100,inc,360ONE,ONE WAM Ltd.,ind_prs22082025
+2025-09-30,MC100,inc,BLUESTARCO,Blue Star Ltd.,ind_prs22082025
+2025-09-30,MC100,inc,COROMANDEL,Coromandel International Ltd.,ind_prs22082025
+2025-09-30,MC100,inc,DABUR,Dabur India Ltd.,ind_prs22082025
+2025-09-30,MC100,inc,FORTIS,Fortis Healthcare Ltd.,ind_prs22082025
+2025-09-30,MC100,inc,GODFRYPHLP,Godfrey Phillips India Ltd.,ind_prs22082025
+2025-09-30,MC100,inc,HEROMOTOCO,Hero MotoCorp Ltd.,ind_prs22082025
+2025-09-30,MC100,inc,POWERINDIA,Hitachi Energy India Ltd.,ind_prs22082025
+2025-09-30,MC100,inc,INDUSINDBK,IndusInd Bank Ltd.,ind_prs22082025
+2025-09-30,MC100,inc,ITCHOTELS,ITC Hotels Ltd.,ind_prs22082025
+2025-09-30,MC100,inc,KEI,KEI Industries Ltd.,ind_prs22082025
+2025-09-30,MC100,inc,SWIGGY,Swiggy Ltd.,ind_prs22082025
+2025-09-30,N100,exc,DABUR,Dabur India Ltd.,ind_prs22082025
+2025-09-30,N100,exc,HEROMOTOCO,Hero MotoCorp Ltd.,ind_prs22082025
+2025-09-30,N100,exc,ICICIPRULI,ICICI Prudential Life Insurance Company Ltd.,ind_prs22082025
+2025-09-30,N100,exc,INDUSINDBK,IndusInd Bank Ltd.,ind_prs22082025
+2025-09-30,N100,exc,SWIGGY,Swiggy Ltd.,ind_prs22082025
+2025-09-30,N100,inc,HINDZINC,Hindustan Zinc Ltd.,ind_prs22082025
+2025-09-30,N100,inc,MAXHEALTH,Max Healthcare Institute Ltd.,ind_prs22082025
+2025-09-30,N100,inc,MAZDOCK,Mazagoan Dock Shipbuilders Ltd.,ind_prs22082025
+2025-09-30,N100,inc,ENRIN,Siemens Energy India Ltd.,ind_prs22082025
+2025-09-30,N100,inc,SOLARINDS,Solar Industries India Ltd.,ind_prs22082025
+2026-03-30,MC100,exc,ACC,ACC Ltd.,ind_prs23022026
+2026-03-30,MC100,exc,BHARTIHEXA,Bharti Hexacom Ltd.,ind_prs23022026
+2026-03-30,MC100,exc,CUMMINSIND,Cummins India Ltd.,ind_prs23022026
+2026-03-30,MC100,exc,HDFCAMC,HDFC Asset Management Company Ltd.,ind_prs23022026
+2026-03-30,MC100,exc,IGL,Indraprastha Gas Ltd.,ind_prs23022026
+2026-03-30,MC100,exc,IRB,IRB Infrastructure Developers Ltd.,ind_prs23022026
+2026-03-30,MC100,exc,ITCHOTELS,ITC Hotels Ltd.,ind_prs23022026
+2026-03-30,MC100,exc,MUTHOOTFIN,Muthoot Finance Ltd.,ind_prs23022026
+2026-03-30,MC100,exc,NTPCGREEN,NTPC Green Energy Ltd.,ind_prs23022026
+2026-03-30,MC100,exc,SONACOMS,Sona BLW Precision Forgings Ltd.,ind_prs23022026
+2026-03-30,MC100,exc,TATATECH,Tata Technologies Ltd.,ind_prs23022026
+2026-03-30,MC100,exc,TORNTPOWER,Torrent Power Ltd.,ind_prs23022026
+2026-03-30,MC100,exc,UNIONBANK,Union Bank of India,ind_prs23022026
+2026-03-30,MC100,inc,GROWW,Billionbrains Garage Ventures Ltd.,ind_prs23022026
+2026-03-30,MC100,inc,GVT&D,GE Vernova T&D India Ltd.,ind_prs23022026
+2026-03-30,MC100,inc,HAVELLS,Havells India Ltd.,ind_prs23022026
+2026-03-30,MC100,inc,ICICIGI,ICICI Lombard General Insurance Company Ltd.,ind_prs23022026
+2026-03-30,MC100,inc,ICICIAMC,ICICI Prudential Asset Management Company Ltd.,ind_prs23022026
+2026-03-30,MC100,inc,NAUKRI,Info Edge (India) Ltd.,ind_prs23022026
+2026-03-30,MC100,inc,JSWENERGY,JSW Energy Ltd.,ind_prs23022026
+2026-03-30,MC100,inc,LAURUSLABS,Laurus Labs Ltd.,ind_prs23022026
+2026-03-30,MC100,inc,LENSKART,Lenskart Solutions Ltd.,ind_prs23022026
+2026-03-30,MC100,inc,LGEINDIA,LG Electronics India Ltd.,ind_prs23022026
+2026-03-30,MC100,inc,MCX,Multi Commodity Exchange of India Ltd.,ind_prs23022026
+2026-03-30,MC100,inc,RADICO,Radico Khaitan Ltd,ind_prs23022026
+2026-03-30,MC100,inc,TATAINVEST,Tata Investment Corporation Ltd.,ind_prs23022026
+2026-03-30,N100,exc,BAJAJHFL,Bajaj Housing Finance Ltd.,ind_prs23022026
+2026-03-30,N100,exc,HAVELLS,Havells India Ltd.,ind_prs23022026
+2026-03-30,N100,exc,ICICIGI,ICICI Lombard General Insurance Company Ltd.,ind_prs23022026
+2026-03-30,N100,exc,NAUKRI,Info Edge (India) Ltd.,ind_prs23022026
+2026-03-30,N100,exc,JSWENERGY,JSW Energy Ltd.,ind_prs23022026
+2026-03-30,N100,exc,LICI,Life Insurance Corporation of India,ind_prs23022026
+2026-03-30,N100,inc,CUMMINSIND,Cummins India Ltd.,ind_prs23022026
+2026-03-30,N100,inc,HDFCAMC,HDFC Asset Management Company Ltd.,ind_prs23022026
+2026-03-30,N100,inc,MUTHOOTFIN,Muthoot Finance Ltd.,ind_prs23022026
+2026-03-30,N100,inc,TATACAP,Tata Capital Ltd.,ind_prs23022026
+2026-03-30,N100,inc,TMCV,Tata Motors Ltd.,ind_prs23022026
+2026-03-30,N100,inc,UNIONBANK,Union Bank of India,ind_prs23022026
+2026-09-30,MC100,exc,ALKEM,Alkem Laboratories Ltd.,ind_prs10082026
+2026-09-30,MC100,exc,BSE,BSE Ltd.,ind_prs10082026
+2026-09-30,MC100,exc,COROMANDEL,Coromandel International Ltd.,ind_prs10082026
+2026-09-30,MC100,exc,POWERINDIA,Hitachi Energy India Ltd.,ind_prs10082026
+2026-09-30,MC100,exc,HUDCO,Housing & Urban Development Corporation Ltd.,ind_prs10082026
+2026-09-30,MC100,exc,KPITTECH,KPIT Technologies Ltd.,ind_prs10082026
+2026-09-30,MC100,exc,POLYCAB,Polycab India Ltd.,ind_prs10082026
+2026-09-30,MC100,exc,TATAELXSI,Tata Elxsi Ltd.,ind_prs10082026
+2026-09-30,MC100,exc,TATAINVEST,Tata Investment Corporation Ltd.,ind_prs10082026
+2026-09-30,MC100,exc,IDEA,Vodafone Idea Ltd.,ind_prs10082026
+2026-09-30,MC100,inc,APARINDS,Apar Industries Ltd.,ind_prs10082026
+2026-09-30,MC100,inc,MAHABANK,Bank of Maharashtra,ind_prs10082026
+2026-09-30,MC100,inc,HINDCOPPER,Hindustan Copper Ltd.,ind_prs10082026
+2026-09-30,MC100,inc,INDHOTEL,Indian Hotels Co. Ltd.,ind_prs10082026
+2026-09-30,MC100,inc,LICI,Life Insurance Corporation of India,ind_prs10082026
+2026-09-30,MC100,inc,LODHA,Lodha Developers Ltd.,ind_prs10082026
+2026-09-30,MC100,inc,MEESHO,Meesho Ltd.,ind_prs10082026
+2026-09-30,MC100,inc,NLCINDIA,NLC India Ltd.,ind_prs10082026
+2026-09-30,MC100,inc,RECLTD,REC Ltd.,ind_prs10082026
+2026-09-30,MC100,inc,UNITDSPR,United Spirits Ltd.,ind_prs10082026
+2026-09-30,N100,exc,INDHOTEL,Indian Hotels Co. Ltd.,ind_prs10082026
+2026-09-30,N100,exc,LODHA,Lodha Developers Ltd.,ind_prs10082026
+2026-09-30,N100,exc,RECLTD,REC Ltd.,ind_prs10082026
+2026-09-30,N100,exc,SHREECEM,Shree Cement Ltd.,ind_prs10082026
+2026-09-30,N100,exc,UNITDSPR,United Spirits Ltd.,ind_prs10082026
+2026-09-30,N100,inc,BSE,BSE Ltd.,ind_prs10082026
+2026-09-30,N100,inc,POWERINDIA,Hitachi Energy India Ltd.,ind_prs10082026
+2026-09-30,N100,inc,POLYCAB,Polycab India Ltd.,ind_prs10082026
+2026-09-30,N100,inc,VAML,Vedanta Aluminium Metal Ltd.,ind_prs10082026
+2026-09-30,N100,inc,IDEA,Vodafone Idea Ltd.,ind_prs10082026

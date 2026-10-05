@@ -1,0 +1,57 @@
+events: 769 rows from 50 documents
+
+--- N100 events per year (inc vs exc)
+      inc  exc
+eff           
+2014    5    5
+2015    7    7
+2016   17   16
+2017    6    6
+2018   10   10
+2019    3    5
+2020   16   17
+2021    7    7
+2022   13   13
+2023   12   11
+2024   10   10
+2025   10   10
+2026   11   11
+
+--- MC100 events per year (inc vs exc)
+      inc  exc
+eff           
+2013    1    1
+2014   16   16
+2015   11   11
+2016    6    6
+2017   12   12
+2018   16   16
+2019   14   14
+2020   33   33
+2021   11   11
+2022   30   30
+2023   27   27
+2024   32   32
+2025   25   25
+2026   23   23
+
+--- flags ---
+SKIPPED-ADHOC ind_prs20072026: company='Allcargo Global ' syms=[] n=0 target_idx=[] eff=2026-07-22 00:00:00
+SKIPPED-ADHOC ind_prs22062026: company='Vedanta Oil and Gas ' syms=[] n=0 target_idx=['N100'] eff=2026-06-24 00:00:00
+SKIPPED-ADHOC ind_prs19062026: company='Vedanta Aluminium Metal ' syms=[] n=0 target_idx=['N100'] eff=2026-06-23 00:00:00
+SKIPPED-ADHOC ind_prs17062026: company='Vedanta Power ' syms=[] n=0 target_idx=['N100'] eff=2026-06-19 00:00:00
+SKIPPED-ADHOC ind_prs20022026_1: company="Kwality Wall's (India) " syms=[] n=0 target_idx=['N100'] eff=2026-02-24 00:00:00
+SKIPPED-ADHOC ind_prs11122025_1: company='SKF India (Industrial) ' syms=[] n=0 target_idx=[] eff=2025-10-15 00:00:00
+SKIPPED-ADHOC ind_prs26112025: company='Advent Hotels International ' syms=[] n=0 target_idx=[] eff=2025-07-18 00:00:00
+SKIPPED-ADHOC ind_prs13112025: company='Tata Motors ' syms=[] n=0 target_idx=['N100'] eff=2025-11-17 00:00:00
+SKIPPED-ADHOC ind_prs22092025: company='STL Networks ' syms=[] n=0 target_idx=[] eff=2025-09-24 00:00:00
+SKIPPED-ADHOC ind_prs08072025: company='Raymond Realty ' syms=[] n=0 target_idx=[] eff=2025-07-10 00:00:00
+SKIPPED-ADHOC ind_prs25062025_2: company='Siemens Energy India ' syms=[] n=0 target_idx=['MC100', 'N100'] eff=2025-06-27 00:00:00
+SKIPPED-ADHOC ind_prs17032025_1: company='Odigma Consultancy Solutions ' syms=[] n=0 target_idx=[] eff=2024-09-11 00:00:00
+SKIPPED-ADHOC ind_prs06022025_1: company='ITC Hotels ' syms=[] n=0 target_idx=['N100'] eff=2025-02-10 00:00:00
+SKIPPED-ADHOC ind_prs05022025_1: company='Onesource Specialty Pharma ' syms=[] n=0 target_idx=[] eff=2024-12-06 00:00:00
+SKIPPED-ADHOC ind_prs25092024: company='Vodafone Idea ' syms=['ACI', 'ADANIGREEN', 'AHL', 'ARKADE', 'ASTRAL', 'AVALON'] n=55 target_idx=['MC100'] eff=2024-09-30 00:00:00
+SKIPPED-ADHOC ind_prs19092024: company='Sanofi Consumer Healthcare India ' syms=[] n=0 target_idx=[] eff=2024-09-23 00:00:00
+SKIPPED-ADHOC ind_prs13092024: company='Raymond Lifestyle ' syms=[] n=0 target_idx=[] eff=2024-09-17 00:00:00
+SKIPPED-ADHOC ind_prs23082024_1: company='Tata Motors ' syms=['BALKRISIND', 'BRITANNIA', 'CELLO', 'CHEMPLASTS', 'EXIDEIND', 'KPRMILL'] n=16 target_idx=['N100'] eff=2024-08-30 00:00:00
+SKIPPED-ADHOC ind_prs05092023: company='Jio Financial Services ' syms=[] n=0 target_idx=['N100'] eff=2023-09-07 00:00:00

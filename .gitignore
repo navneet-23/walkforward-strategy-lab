@@ -4,3 +4,5 @@ __pycache__/
 *.parquet
 *.pyc
 .venv/
+!verification/data_pit_wf/
+!verification/data_pit_wf/*.parquet
